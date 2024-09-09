@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, I am Phung Nam Giang
 
 <!--
 **Giang05200/Giang05200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
