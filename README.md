@@ -1,10 +1,7 @@
 Hi !My name is Phùng Nam Giang
 ========================================================================================================================================
 
-I'm Web Developer from `Code Lyoko Team`
----------------------------------
 
-`Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
 
 * 🌍  I'm based in Viet Nam
 * 👨‍🎓  Studied at Hatechs
@@ -28,11 +25,7 @@ I made projects just for fun, training my skills...
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/namnguyenthanhwork"><img src="https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="namnguyenthanhwork's GitHub stats" /></a>
-
-<a href="http://www.github.com/namnguyenthanhwork"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 Thanks for stopping by, and I look forward to connecting with you soon!
 
